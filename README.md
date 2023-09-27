@@ -136,3 +136,26 @@ src/services/helper.js: This file may contain utility functions or helper method
 └── server.js
 
 ```
+- **`config/db.js`**: This file is likely responsible for configuring your database connection. It may define how your Node.js application connects to your database, sets up a connection pool, or specifies database credentials.
+
+- **`config/generateToken.js`**: This file could be used to generate authentication tokens, such as JSON Web Tokens (JWTs), which are commonly used for securing API endpoints and user authentication.
+
+- **`controllers/chatControllers.js`**: This file probably contains controller functions that handle various operations related to chat functionality. These controllers may include functions for creating, updating, or deleting chats.
+
+- **`controllers/messageControllers.js`**: This file likely contains controller functions for handling messages within your application. These controllers might include functions for sending, retrieving, or deleting messages.
+
+- **`controllers/userControllers.js`**: This file probably contains controller functions for user-related operations, such as user registration, login, profile management, and more.
+
+- **`data/data.js`**: This file could potentially be used to store and export sample data or initial data used during development or testing.
+
+- **`middleware/authMiddleware.js`**: This file is likely responsible for defining middleware functions that handle authentication and authorization tasks. Middleware functions can be used to protect certain routes or perform actions before or after a request is processed.
+
+- **`middleware/errorMiddleware.js`**: This file may define middleware functions to handle errors that occur during the processing of HTTP requests. It can help centralize error handling and improve error responses to clients.
+
+- **`models/chatModel.js`**, **`models/messageModel.js`**, **`models/userModel.js`**: These files probably define the data models for your application. They specify the structure of data objects that will be stored in the database and may include validation and schema-related logic.
+
+- **`package-lock.json`** and **`package.json`**: These files are part of Node.js and NPM (Node Package Manager) and contain information about your project's dependencies and metadata. `package.json` also includes scripts for running your application and managing dependencies.
+
+- **`routes/chatRoutes.js`**, **`routes/messageRoutes.js`**, **`routes/userRoutes.js`**: These files are likely used to define the routes and associated controller functions for different parts of your API. They specify how incoming HTTP requests are mapped to specific controller actions.
+
+- **`server.js`**: This is likely the main entry point of your backend application. It typically sets up your Express.js server, defines middleware, connects to the database, and specifies the routes that your API will listen to.
