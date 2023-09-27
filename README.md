@@ -21,6 +21,9 @@ User registration and authentication.
 # Documentation:
 ![Plan](https://github.com/harshitajha4680/Messaging-Service-Prototype-Full-Stack-Project/blob/main/COMPLETE_PLAN.png)
 
+# Tech Stack
+![Plan](https://github.com/harshitajha4680/Messaging-Service-Prototype-Full-Stack-Project/blob/main/Node_Mongo.jpg)
+
 ## FRONTEND -
 ```bash
  public
