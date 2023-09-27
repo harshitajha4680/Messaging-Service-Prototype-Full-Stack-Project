@@ -22,7 +22,7 @@ User registration and authentication.
 ![Plan](https://github.com/harshitajha4680/Messaging-Service-Prototype-Full-Stack-Project/blob/main/COMPLETE_PLAN.png)
 
 ## FRONTEND -
-''' bash
+'''bash
  public
 │   └── index.html
 └── src
