@@ -22,7 +22,7 @@ User registration and authentication.
 ![Plan](https://github.com/harshitajha4680/Messaging-Service-Prototype-Full-Stack-Project/blob/main/COMPLETE_PLAN.png)
 
 ## FRONTEND -
-'''bash
+```bash
  public
 │   └── index.html
 └── src
@@ -63,7 +63,7 @@ User registration and authentication.
     └── services
         └── helper.js
 
-'''
+```
 
 public/index.html: This is the main HTML file for your web application. It likely contains the basic structure of your webpage, including the title, links to CSS and JavaScript files, and the root DOM element where your React app will be rendered.
 
