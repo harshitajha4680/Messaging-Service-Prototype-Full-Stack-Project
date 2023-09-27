@@ -65,7 +65,7 @@ User registration and authentication.
 
 ```
 
-public/index.html: This is the main HTML file for your web application. It likely contains the basic structure of your webpage, including the title, links to CSS and JavaScript files, and the root DOM element where your React app will be rendered.
+#### public/index.html: This is the main HTML file for your web application. It likely contains the basic structure of your webpage, including the title, links to CSS and JavaScript files, and the root DOM element where your React app will be rendered.
 
 src/App.css: This file likely contains CSS styles specific to your entire application. It is used to style your components in a consistent way.
 
