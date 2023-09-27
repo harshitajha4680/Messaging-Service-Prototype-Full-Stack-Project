@@ -106,3 +106,33 @@ src/index.css: This is a global CSS file that can be used to define styles that 
 src/index.js: This is the entry point of your React application, where the React app is typically rendered into the DOM.
 
 src/services/helper.js: This file may contain utility functions or helper methods used throughout your application.
+
+
+## BACKEND -
+
+```bash
+├── config
+│   ├── db.js
+│   └── generateToken.js
+├── controllers
+│   ├── chatControllers.js
+│   ├── messageControllers.js
+│   └── userControllers.js
+├── data
+│   └── data.js
+├── middleware
+│   ├── authMiddleware.js
+│   └── errorMiddleware.js
+├── models
+│   ├── chatModel.js
+│   ├── messageModel.js
+│   └── userModel.js
+├── package-lock.json
+├── package.json
+├── routes
+│   ├── chatRoutes.js
+│   ├── messageRoutes.js
+│   └── userRoutes.js
+└── server.js
+
+```
