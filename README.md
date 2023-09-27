@@ -19,4 +19,4 @@ User registration and authentication.
 
 
 # Documentation:
-![Plan](image link)
+![Plan](https://github.com/harshitajha4680/Messaging-Service-Prototype-Full-Stack-Project/blob/main/COMPLETE_PLAN.png)
